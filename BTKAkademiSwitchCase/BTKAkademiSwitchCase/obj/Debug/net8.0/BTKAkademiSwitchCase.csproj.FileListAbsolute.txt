@@ -1,0 +1,14 @@
+C:\Users\LENOVO\source\repos\BTKAkademiSwitchCase\BTKAkademiSwitchCase\bin\Debug\net8.0\BTKAkademiSwitchCase.exe
+C:\Users\LENOVO\source\repos\BTKAkademiSwitchCase\BTKAkademiSwitchCase\bin\Debug\net8.0\BTKAkademiSwitchCase.deps.json
+C:\Users\LENOVO\source\repos\BTKAkademiSwitchCase\BTKAkademiSwitchCase\bin\Debug\net8.0\BTKAkademiSwitchCase.runtimeconfig.json
+C:\Users\LENOVO\source\repos\BTKAkademiSwitchCase\BTKAkademiSwitchCase\bin\Debug\net8.0\BTKAkademiSwitchCase.dll
+C:\Users\LENOVO\source\repos\BTKAkademiSwitchCase\BTKAkademiSwitchCase\bin\Debug\net8.0\BTKAkademiSwitchCase.pdb
+C:\Users\LENOVO\source\repos\BTKAkademiSwitchCase\BTKAkademiSwitchCase\obj\Debug\net8.0\BTKAkademiSwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\BTKAkademiSwitchCase\BTKAkademiSwitchCase\obj\Debug\net8.0\BTKAkademiSwitchCase.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\BTKAkademiSwitchCase\BTKAkademiSwitchCase\obj\Debug\net8.0\BTKAkademiSwitchCase.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\BTKAkademiSwitchCase\BTKAkademiSwitchCase\obj\Debug\net8.0\BTKAkademiSwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\BTKAkademiSwitchCase\BTKAkademiSwitchCase\obj\Debug\net8.0\BTKAkademiSwitchCase.dll
+C:\Users\LENOVO\source\repos\BTKAkademiSwitchCase\BTKAkademiSwitchCase\obj\Debug\net8.0\refint\BTKAkademiSwitchCase.dll
+C:\Users\LENOVO\source\repos\BTKAkademiSwitchCase\BTKAkademiSwitchCase\obj\Debug\net8.0\BTKAkademiSwitchCase.pdb
+C:\Users\LENOVO\source\repos\BTKAkademiSwitchCase\BTKAkademiSwitchCase\obj\Debug\net8.0\BTKAkademiSwitchCase.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\BTKAkademiSwitchCase\BTKAkademiSwitchCase\obj\Debug\net8.0\ref\BTKAkademiSwitchCase.dll
