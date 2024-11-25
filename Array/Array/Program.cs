@@ -1,6 +1,5 @@
 ﻿
 
-
 int[] numbers = { 1, 5, 9, 17 };
 
 for (int i = 0; i < numbers.Length; i++)
@@ -20,7 +19,7 @@ var random = new Random();
 for (int i = 0; i < numbers2.Length; i++)
     numbers2[i] = random.Next(1, 10);
 
-foreach (var n in numbers2)
+foreach (number n in numbers2)
 {
     Console.WriteLine(n);
 }
