@@ -1,0 +1,14 @@
+C:\Users\LENOVO\source\repos\StructTwo\StructTwo\bin\Debug\net8.0\StructTwo.exe
+C:\Users\LENOVO\source\repos\StructTwo\StructTwo\bin\Debug\net8.0\StructTwo.deps.json
+C:\Users\LENOVO\source\repos\StructTwo\StructTwo\bin\Debug\net8.0\StructTwo.runtimeconfig.json
+C:\Users\LENOVO\source\repos\StructTwo\StructTwo\bin\Debug\net8.0\StructTwo.dll
+C:\Users\LENOVO\source\repos\StructTwo\StructTwo\bin\Debug\net8.0\StructTwo.pdb
+C:\Users\LENOVO\source\repos\StructTwo\StructTwo\obj\Debug\net8.0\StructTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\StructTwo\StructTwo\obj\Debug\net8.0\StructTwo.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\StructTwo\StructTwo\obj\Debug\net8.0\StructTwo.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\StructTwo\StructTwo\obj\Debug\net8.0\StructTwo.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\StructTwo\StructTwo\obj\Debug\net8.0\StructTwo.dll
+C:\Users\LENOVO\source\repos\StructTwo\StructTwo\obj\Debug\net8.0\refint\StructTwo.dll
+C:\Users\LENOVO\source\repos\StructTwo\StructTwo\obj\Debug\net8.0\StructTwo.pdb
+C:\Users\LENOVO\source\repos\StructTwo\StructTwo\obj\Debug\net8.0\StructTwo.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\StructTwo\StructTwo\obj\Debug\net8.0\ref\StructTwo.dll
