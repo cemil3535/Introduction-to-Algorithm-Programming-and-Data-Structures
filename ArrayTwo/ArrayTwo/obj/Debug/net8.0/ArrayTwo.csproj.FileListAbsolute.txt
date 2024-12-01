@@ -1,0 +1,14 @@
+C:\Users\LENOVO\source\repos\ArrayTwo\ArrayTwo\obj\Debug\net8.0\ArrayTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\ArrayTwo\ArrayTwo\obj\Debug\net8.0\ArrayTwo.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\ArrayTwo\ArrayTwo\obj\Debug\net8.0\ArrayTwo.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\ArrayTwo\ArrayTwo\obj\Debug\net8.0\ArrayTwo.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\ArrayTwo\ArrayTwo\bin\Debug\net8.0\ArrayTwo.exe
+C:\Users\LENOVO\source\repos\ArrayTwo\ArrayTwo\bin\Debug\net8.0\ArrayTwo.deps.json
+C:\Users\LENOVO\source\repos\ArrayTwo\ArrayTwo\bin\Debug\net8.0\ArrayTwo.runtimeconfig.json
+C:\Users\LENOVO\source\repos\ArrayTwo\ArrayTwo\bin\Debug\net8.0\ArrayTwo.dll
+C:\Users\LENOVO\source\repos\ArrayTwo\ArrayTwo\bin\Debug\net8.0\ArrayTwo.pdb
+C:\Users\LENOVO\source\repos\ArrayTwo\ArrayTwo\obj\Debug\net8.0\ArrayTwo.dll
+C:\Users\LENOVO\source\repos\ArrayTwo\ArrayTwo\obj\Debug\net8.0\refint\ArrayTwo.dll
+C:\Users\LENOVO\source\repos\ArrayTwo\ArrayTwo\obj\Debug\net8.0\ArrayTwo.pdb
+C:\Users\LENOVO\source\repos\ArrayTwo\ArrayTwo\obj\Debug\net8.0\ArrayTwo.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\ArrayTwo\ArrayTwo\obj\Debug\net8.0\ref\ArrayTwo.dll
