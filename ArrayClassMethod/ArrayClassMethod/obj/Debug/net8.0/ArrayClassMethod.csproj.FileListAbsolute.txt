@@ -1,0 +1,14 @@
+C:\Users\LENOVO\source\repos\ArrayClassMethod\ArrayClassMethod\bin\Debug\net8.0\ArrayClassMethod.exe
+C:\Users\LENOVO\source\repos\ArrayClassMethod\ArrayClassMethod\bin\Debug\net8.0\ArrayClassMethod.deps.json
+C:\Users\LENOVO\source\repos\ArrayClassMethod\ArrayClassMethod\bin\Debug\net8.0\ArrayClassMethod.runtimeconfig.json
+C:\Users\LENOVO\source\repos\ArrayClassMethod\ArrayClassMethod\bin\Debug\net8.0\ArrayClassMethod.dll
+C:\Users\LENOVO\source\repos\ArrayClassMethod\ArrayClassMethod\bin\Debug\net8.0\ArrayClassMethod.pdb
+C:\Users\LENOVO\source\repos\ArrayClassMethod\ArrayClassMethod\obj\Debug\net8.0\ArrayClassMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\ArrayClassMethod\ArrayClassMethod\obj\Debug\net8.0\ArrayClassMethod.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\ArrayClassMethod\ArrayClassMethod\obj\Debug\net8.0\ArrayClassMethod.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\ArrayClassMethod\ArrayClassMethod\obj\Debug\net8.0\ArrayClassMethod.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\ArrayClassMethod\ArrayClassMethod\obj\Debug\net8.0\ArrayClassMethod.dll
+C:\Users\LENOVO\source\repos\ArrayClassMethod\ArrayClassMethod\obj\Debug\net8.0\refint\ArrayClassMethod.dll
+C:\Users\LENOVO\source\repos\ArrayClassMethod\ArrayClassMethod\obj\Debug\net8.0\ArrayClassMethod.pdb
+C:\Users\LENOVO\source\repos\ArrayClassMethod\ArrayClassMethod\obj\Debug\net8.0\ArrayClassMethod.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\ArrayClassMethod\ArrayClassMethod\obj\Debug\net8.0\ref\ArrayClassMethod.dll
